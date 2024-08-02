@@ -1,0 +1,12 @@
+{
+  "name": "koa_autorouter",
+  "version": "1.3.1",
+  "description": "koa_autorouter",
+  "main": "autoroutes.js",
+  "author": {
+    "name": "CDer"
+  },
+  "dependencies": {
+    "koa-router": "^7.4.0"
+  }
+}
